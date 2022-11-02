@@ -1,4 +1,4 @@
-# Desafio 01 - Corrigindo bus
+# Desafio 01 - Corrigindo bugs
 <img src="./images/screenshot.png"/>
 
 ## Sobre o desafio
